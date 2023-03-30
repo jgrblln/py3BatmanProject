@@ -1,0 +1,37 @@
+// Pre-Game Initialization
+1. Initialize Enemy_Code_Randomizer
+2. Initialize Possible_Encounters
+3. Initialize Tutorial_Encounter
+4. Initialize Dawn_Help_Tips
+5. Initialize Dawn_Quips
+6. Ask and Input Player Name
+
+//Main Menu
+7. Call Main Menu Module
+8. If Player Chooses Start Game, Proceed to Step 10, Else, Proceed to Step 9. 
+9. If Player Chooses Encounters, Proceed to Step 24, Else if Player chooses Exit, Stop Program
+10. Display Dawn & Initial Coding Help Tips
+11. Call Tutorial Encounter
+12. Display Dawn Quip
+13. Call Encounter Module
+14. Ask if Player wants to continue with Y/N
+15. Stop Program if N, Else, Return to Step 10
+
+//Tutorial Encounter
+16. Display Dawn & Initial Coding Help Tips
+17. Display Encounter Introduction Text & Dawn Quip
+18. Call Encounter Module 
+
+//Encounter Module
+19. Display Enemy Code
+20. Display Dawn Help Tip
+21. Ask & Input User's corrected code
+22. If User's Code == Correct Code, Proceed to Step 23, Else Return to Step 21
+23. Display Dawn Quip
+
+//Encounter Select Option
+
+24. Display All Unlocked Encounters
+25. Ask User what Encounter to initialize
+26. Input User Choice
+27. Initialize chosen Encounter
