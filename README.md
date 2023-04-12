@@ -9,3 +9,6 @@ Features:
 4. Encounters with Wrong Code: The game gives players a variety of tasks and in-game situations that include typical code errors, allowing them to hone and develop their coding abilities.
 5. User-friendly Interface: The game has an intuitive UI that makes it simple for players to concentrate on the game's instructional elements.
 6. Entertaining and Engaging: The game is made to be enjoyable and captivating so that players will like learning to code.
+
+
+YT LINK: https://youtu.be/KkjvlDrSz6U
